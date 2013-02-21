@@ -1,6 +1,6 @@
 #Insensitive ListView
 
-ListView the isn't sensitive to to horizontal scrolling.	
+ListView that isn't sensitive to to horizontal scrolling.	
 <br/>
 
 	
